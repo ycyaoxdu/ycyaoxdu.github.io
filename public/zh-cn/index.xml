@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>姚雨辰</title>
-    <link>http://www.example.com/zh-cn/</link>
+    <link>https://ycyaoxdu.github.io/zh-cn/</link>
     <description>Recent content on 姚雨辰</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Sep 2022 14:49:47 +0800</lastBuildDate><atom:link href="http://www.example.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 14:49:47 +0800</lastBuildDate><atom:link href="https://ycyaoxdu.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Cluster Management 独立控制面板</title>
-      <link>http://www.example.com/zh-cn/posts/ocmcontrolplane/</link>
+      <link>https://ycyaoxdu.github.io/zh-cn/posts/ocmcontrolplane/</link>
       <pubDate>Sun, 18 Sep 2022 14:49:47 +0800</pubDate>
       
-      <guid>http://www.example.com/zh-cn/posts/ocmcontrolplane/</guid>
+      <guid>https://ycyaoxdu.github.io/zh-cn/posts/ocmcontrolplane/</guid>
       <description>OCM独立二进制控制台的演示视频 点击查看 </description>
     </item>
     
     <item>
       <title>关于作者</title>
-      <link>http://www.example.com/zh-cn/about/</link>
+      <link>https://ycyaoxdu.github.io/zh-cn/about/</link>
       <pubDate>Sun, 18 Sep 2022 14:27:31 +0800</pubDate>
       
-      <guid>http://www.example.com/zh-cn/about/</guid>
+      <guid>https://ycyaoxdu.github.io/zh-cn/about/</guid>
       <description> 最新动态 Link to heading 攻读硕士学位中&amp;hellip;
 教育经历 Link to heading 专业 学校 学位 城市 时期 自动化 西安电子科技大学 学士 西安 2017-2021 软件工程 西安交通大学 硕士 西安 2021-2024(预计) </description>
     </item>
     
     <item>
       <title>联系作者</title>
-      <link>http://www.example.com/zh-cn/contact/</link>
+      <link>https://ycyaoxdu.github.io/zh-cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/zh-cn/contact/</guid>
+      <guid>https://ycyaoxdu.github.io/zh-cn/contact/</guid>
       <description>电子邮箱： yaoyuchen0626@163.com</description>
     </item>
     
     <item>
       <title>项目简介</title>
-      <link>http://www.example.com/zh-cn/projects/</link>
+      <link>https://ycyaoxdu.github.io/zh-cn/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/zh-cn/projects/</guid>
+      <guid>https://ycyaoxdu.github.io/zh-cn/projects/</guid>
       <description>Open Cluster Management 的命令行工具：clusteradm
 基于Intel处理器AVX指令集的AES算法加密解密加速</description>
     </item>

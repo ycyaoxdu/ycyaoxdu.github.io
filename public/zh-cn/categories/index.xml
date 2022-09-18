@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 姚雨辰</title>
-    <link>http://www.example.com/zh-cn/categories/</link>
+    <link>https://ycyaoxdu.github.io/zh-cn/categories/</link>
     <description>Recent content in Categories on 姚雨辰</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ycyaoxdu.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

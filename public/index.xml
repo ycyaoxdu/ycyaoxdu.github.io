@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuchen YAO</title>
-    <link>http://www.example.com/</link>
+    <link>https://ycyaoxdu.github.io/</link>
     <description>Recent content on Yuchen YAO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Sep 2022 14:49:47 +0800</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 14:49:47 +0800</lastBuildDate><atom:link href="https://ycyaoxdu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Control Plane for Open Cluster Management</title>
-      <link>http://www.example.com/posts/ocmcontrolplane/</link>
+      <link>https://ycyaoxdu.github.io/posts/ocmcontrolplane/</link>
       <pubDate>Sun, 18 Sep 2022 14:49:47 +0800</pubDate>
       
-      <guid>http://www.example.com/posts/ocmcontrolplane/</guid>
+      <guid>https://ycyaoxdu.github.io/posts/ocmcontrolplane/</guid>
       <description>A demo video introducing stand alone control plane for Open Cluster Management.
 click here to watch </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://ycyaoxdu.github.io/about/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://ycyaoxdu.github.io/about/</guid>
       <description> Recent Status Link to heading Pursuing my Master&amp;rsquo;s degree
 Education Link to heading speciality university degree city,country time period Automatic Control Xidian University(XDU) Bachelor Xi&amp;rsquo;an,China 2017-2021 Software Engineering Xi&amp;rsquo;an Jiaotong University(XJTU) Master Xi&amp;rsquo;an,China 2021-2024(expected) </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://ycyaoxdu.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://ycyaoxdu.github.io/contact/</guid>
       <description>E-mail: yaoyuchen0626@163.com</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://ycyaoxdu.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://ycyaoxdu.github.io/projects/</guid>
       <description>open-cluster-management-io/clusteradm
 Encode&amp;amp;Decode Speed Up for AES Algorithm Based on AVX Instruction Set</description>
     </item>
