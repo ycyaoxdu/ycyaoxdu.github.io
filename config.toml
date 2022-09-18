@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://ycyaoxdu.github.io"
 title = "Yuchen YAO"
 theme = "coder"
 languageCode = "en"
@@ -116,7 +116,7 @@ weight = 2
 url = "https://www.linkedin.com/in/yuchen-yao-b4129a250/"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"
