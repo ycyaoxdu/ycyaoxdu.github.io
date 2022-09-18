@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen YAO</title>
+    <link>http://www.example.com/authors/yuchen-yao/</link>
+    <description>Recent content on Yuchen YAO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Sep 2022 14:49:47 +0800</lastBuildDate><atom:link href="http://www.example.com/authors/yuchen-yao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Control Plane for Open Cluster Management</title>
+      <link>http://www.example.com/posts/ocmcontrolplane/</link>
+      <pubDate>Sun, 18 Sep 2022 14:49:47 +0800</pubDate>
+      
+      <guid>http://www.example.com/posts/ocmcontrolplane/</guid>
+      <description>A demo video introducing stand alone control plane for Open Cluster Management.
+click here to watch </description>
+    </item>
+    
+  </channel>
+</rss>
