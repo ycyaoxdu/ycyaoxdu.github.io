@@ -68,6 +68,50 @@ pid = fork()
 ## Lecture 2
 ---
 
+### Isolation
+
+1.Unix interface: abstract the hareware resources
+process <--> cpu
+exec <--> memory
+file <--> disk block
+
+2.**OS should be deefensive**
+- app cannot crash the OS 
+- app cannot break out of isolation
+
+=> Strong isolation between apps and OS
+typically Hardware support:
+{user/kernel mode}
+{vitrual memory}
+
+### kernel /user mode
+
+kernel: privileged instructions
+    set page table register/ disable clock interrupts/ 
+
+user: unprivileged instructions
+    add/sub/
+
+
+### CPU provide virtual memory
+page table: virtual address -> physical
+process : hardware own page table
+memory isolation
+
+
+### enttering kernel
+user use ecall (system_call_number) to make system calls
+
+Kernel is trusted computing base(TCB)
+- kernel must have no bug
+- kernel must treat process as malicious
+
+=>security
+
+monolithic kernel design: whole OS run in kernel mode
+micro kernel design: necessary part of OS run in kernel mode
+
+
 ## Lecture 3
 ---
 
