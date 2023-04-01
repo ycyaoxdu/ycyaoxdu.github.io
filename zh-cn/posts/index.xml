@@ -4,4 +4,4 @@ TLS/SSL
 X.509
 CSR
 e-Signature
-Base64</description></item><item><title>Open Cluster Management 独立控制面板</title><link>https://ycyaoxdu.github.io/zh-cn/posts/ocmcontrolplane/</link><pubDate>Sun, 18 Sep 2022 14:49:47 +0800</pubDate><guid>https://ycyaoxdu.github.io/zh-cn/posts/ocmcontrolplane/</guid><description>OCM独立二进制控制台的演示视频 点击查看</description></item></channel></rss>
+Base64</description></item><item><title>【Open Cluster Management】 multicluster-controlplane</title><link>https://ycyaoxdu.github.io/zh-cn/posts/multicluster-controlplane/</link><pubDate>Sun, 18 Sep 2022 14:49:47 +0800</pubDate><guid>https://ycyaoxdu.github.io/zh-cn/posts/multicluster-controlplane/</guid><description>OCM独立二进制控制平面的演示视频 点击查看 代码仓库</description></item></channel></rss>
