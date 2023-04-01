@@ -1,6 +1,6 @@
 ---
 title: "Learning Operating System"
-description = "MIT 6.S081"
+description : "MIT 6.S081"
 date: 2022-12-04T14:32:44+08:00
 draft: true
 ---

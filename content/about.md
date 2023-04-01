@@ -21,4 +21,4 @@ Pursuing my Master's degree
 
 ## About This Blog
 
-The original intention of opening this blog is to urge me to systematically sort out what I usually learn and deepen my understanding. Blog content is for learning and communication purposes only.
+This blog is used to record some daily learning and collected content. Blog content is for learning and communication purposes only.
